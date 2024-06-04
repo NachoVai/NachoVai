@@ -1,7 +1,7 @@
 ### Hola 👋, soy Ignacio Reyes Soto.
 
 ## Sobre mí
-Soy un programador titulado como Analista programador con mención en desarrollo web, apasionado de las tecnologías, me destaco por mi constante desarrollo y ganas de aprender y compartir conocimientos. Enfocado en crear soluciones que satisfagan las necesidades
+Soy un programador titulado como Analista programador con mención en desarrollo web, apasionado de las tecnologías, me destaco por mi constante desarrollo, ganas de aprender y compartir conocimientos. Enfocado en crear soluciones que satisfagan las necesidades
 del proyecto y del usuario.
 
 En mi trayectoria profesional, mi enfoque principal es el desarrollo constante de mis habilidades técnicas, centrándome especialmente en explorar los últimos frameworks y tecnologías emergentes, como la inteligencia artificial y el aprendizaje automático. Estoy en búsqueda activa de desafíos que me impulsen a crecer y que me brinden la oportunidad de aportar a proyectos innovadores.
